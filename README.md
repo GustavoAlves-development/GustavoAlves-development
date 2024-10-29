@@ -15,4 +15,4 @@
   <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 <br>
-Atualmente, estou cursando Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Tenho sempre a disposição e o entusiasmo para aprender coisas novas e expandir meus conhecimentos na área. 🚀
+Tenho sempre a disposição e o entusiasmo para aprender coisas novas e expandir meus conhecimentos na área. 🚀

@@ -16,7 +16,7 @@
   <img align="center" alt="Figma" src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Bootstrap" src = "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Vercel" src = "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img align="center" alt="Render" src = " <img align="center" alt="Vercel" src = "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">">
+  <img align="center" alt="Render" src = "https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
 </div>
 <br>
 Tenho sempre a disposição e o entusiasmo para aprender coisas novas e expandir meus conhecimentos na área. 🚀
